@@ -1,0 +1,74 @@
+/* CSS Document */
+p {
+	color:darkolivegreen;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 1000px;
+	padding: 10px;	
+}
+h1 { 
+	font-family:"MateaMaksic";
+	font-size: 50px;
+	color:saddlebrown;
+	background-color:white;
+}
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: saddlebrown;
+}
+a:link {
+	color:saddlebrown;
+	background-color:white;
+	padding: 10px;
+	line-height: 40px;	
+}
+a:hover {
+	background-color:beige;
+}
+.pozadina {
+	margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('C:\Users\MATEA\Desktop\digitalni projektni3\Digitalni projektni 3\SLIKE/pozadina.jpg');
+    background-size: cover;auto;
+    background-position: center;auto;
+    background-repeat: no-repeat;auto;
+    background-attachment: fixed;auto;
+    color: white;auto;
+    height: 100vh;auto;
+    text-align: center;auto;
+    display: flex;auto;
+    flex-direction: column;auto;
+    justify-content: center;auto;
+}
+p {
+	color:white;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 1000px;
+	padding: 10px;
+}
+h1 { 
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 50px;
+	color:saddlebrown;
+}
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: saddlebrown;
+	background-color:white;
+}
+a:link {
+	color:saddlebrown;
+	background-color:white;
+	padding: 10px;
+	line-height: 40px;	
+}
+a:hover {
+	background-color: antiquewhite;
+}
+.drugapozadina {
+	background-color:#Dcdcdc;
+}
