@@ -1,0 +1,995 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.24.0" title="Shotcut version 24.04.28" producer="main_bin">
+  <profile description="automatic" width="720" height="1280" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="9" display_aspect_den="16" frame_rate_num="57600" frame_rate_den="961" colorspace="709"/>
+  <chain id="chain0" out="00:00:43.295">
+    <property name="length">00:00:43.312</property>
+    <property name="eof">pause</property>
+    <property name="resource">video7.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9376</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">2955261</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63139</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:14:18</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">57600</property>
+    <property name="meta.media.frame_rate_den">961</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="shotcut:hash">be69349e47ab03ee31d5a6d74204c8de</property>
+    <property name="ignore_points">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">video7.mp4</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:60:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">slika33.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-06-09T10:59:57</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a173120e8858ef35c85bc65f438690b5</property>
+  </producer>
+  <chain id="chain1" out="00:00:28.396">
+    <property name="length">00:00:28.413</property>
+    <property name="eof">pause</property>
+    <property name="resource">video3.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9365</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">2947732</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">62557</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:05:19</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">510000</property>
+    <property name="meta.media.frame_rate_den">8509</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ee419815704b7ea827b327003bafb685</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">video3.mp4</property>
+  </chain>
+  <chain id="chain2" in="00:00:00.717" out="00:00:05.372">
+    <property name="length">00:00:07.358</property>
+    <property name="eof">pause</property>
+    <property name="resource">video4.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9316</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">3004217</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63000</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:01:38</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">52560</property>
+    <property name="meta.media.frame_rate_den">877</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2b067bbfd40db9f256f055f705c0d043</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">video4.mp4</property>
+  </chain>
+  <producer id="producer1" in="00:00:00.000" out="00:00:03.987">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">1</property>
+    <property name="meta.shotcut.vui">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter0" out="00:00:03.987">
+      <property name="argument">COFFE</property>
+      <property name="geometry">0 0 720 320 1</property>
+      <property name="family">Microsoft Uighur</property>
+      <property name="size">133</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="opacity">1.0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">100</property>
+    </filter>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:60:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="meta.shotcut.vui">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter1" out="00:00:03.987">
+      <property name="argument">¨Matea Maksić - Digitalni Multimedij 1¨</property>
+      <property name="geometry">70 1225 720 320 1</property>
+      <property name="family">Microsoft JhengHei UI Light</property>
+      <property name="size">32</property>
+      <property name="weight">290</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="opacity">1.0</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">24</property>
+    </filter>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 24.04.28">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:43.295"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.987"/>
+    <entry producer="chain1" in="00:00:11.595" out="00:00:26.728"/>
+    <entry producer="chain2" in="00:00:00.717" out="00:00:05.372"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.987"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.987"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:31.032">
+    <property name="length">00:00:31.049</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:31.032"/>
+  </playlist>
+  <chain id="chain3" out="00:00:43.295">
+    <property name="length">00:00:43.312</property>
+    <property name="eof">pause</property>
+    <property name="resource">video7.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9376</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">2955261</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63139</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:14:18</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">57600</property>
+    <property name="meta.media.frame_rate_den">961</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">-1</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="shotcut:hash">be69349e47ab03ee31d5a6d74204c8de</property>
+    <property name="ignore_points">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:caption">video7.mp4</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter2" in="00:00:10.895" out="00:00:22.790">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.984=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.001</property>
+    </filter>
+    <filter id="filter3" in="00:00:10.895" out="00:00:22.790">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.2875</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain3" in="00:00:10.895" out="00:00:22.790"/>
+  </playlist>
+  <producer id="producer3" in="00:00:00.000" out="03:60:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">slika33.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">2</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-06-09T10:59:57</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a173120e8858ef35c85bc65f438690b5</property>
+    <property name="shotcut:caption">slika33.png</property>
+    <filter id="filter4" out="00:00:11.896">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.984=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.001</property>
+    </filter>
+    <filter id="filter5" out="00:00:11.896">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.2875</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:11.896"/>
+  </playlist>
+  <playlist id="playlist2">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:00.017"/>
+  </playlist>
+  <chain id="chain4" out="00:00:07.341">
+    <property name="length">00:00:07.358</property>
+    <property name="eof">pause</property>
+    <property name="resource">video4.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9316</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">3004217</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63000</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:01:38</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">52560</property>
+    <property name="meta.media.frame_rate_den">877</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">-1</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2b067bbfd40db9f256f055f705c0d043</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">video4.mp4</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <property name="meta.shotcut.vui">1</property>
+    <filter id="filter6" in="00:00:00.717" out="00:00:03.003">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.168=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.168=1</property>
+      <property name="shotcut:animIn">0</property>
+      <property name="shotcut:animOut">0</property>
+    </filter>
+    <filter id="filter7" in="00:00:00.717" out="00:00:03.003">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.285</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+    <filter id="filter8" in="00:00:00.717" out="00:00:03.003">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">0</property>
+      <property name="av.s">00:00:00.000=0;00:00:02.286=0</property>
+    </filter>
+  </chain>
+  <producer id="producer4" in="00:00:00.000" out="00:00:18.386">
+    <property name="length">00:00:18.402</property>
+    <property name="eof">pause</property>
+    <property name="resource">0.4:video4.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9316</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">3004217</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63000</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="warp_speed">0.4</property>
+    <property name="warp_resource">video4.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="astream">-1</property>
+    <property name="vstream">0</property>
+    <property name="shotcut:hash">2b067bbfd40db9f256f055f705c0d043</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <property name="shotcut:caption">video4.mp4 (0.4x)</property>
+    <property name="xml">was here</property>
+    <property name="meta.media.frame_rate_num">52560</property>
+    <property name="meta.media.frame_rate_den">877</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <filter id="filter9" in="00:00:07.558" out="00:00:09.810">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.285</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+    <filter id="filter10" in="00:00:07.558" out="00:00:09.810">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">0</property>
+      <property name="av.s">00:00:00.000=0;00:00:02.252=0</property>
+    </filter>
+  </producer>
+  <chain id="chain5" out="00:00:07.341">
+    <property name="length">00:00:07.358</property>
+    <property name="eof">pause</property>
+    <property name="resource">video4.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9316</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">3004217</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">63000</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:01:38</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">52560</property>
+    <property name="meta.media.frame_rate_den">877</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">-1</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2b067bbfd40db9f256f055f705c0d043</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">video4.mp4</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter11" in="00:00:03.937" out="00:00:05.372">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.2825</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+    <filter id="filter12" in="00:00:03.937" out="00:00:05.372">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">0</property>
+      <property name="av.s">00:00:00.000=0;00:00:01.385=0</property>
+    </filter>
+  </chain>
+  <tractor id="tractor0" in="00:00:00.000" out="00:00:00.017">
+    <property name="shotcut:transition">lumaMix</property>
+    <track producer="producer4" in="00:00:09.794" out="00:00:09.810"/>
+    <track producer="chain5" in="00:00:03.937" out="00:00:03.954"/>
+    <transition id="transition0" out="00:00:00.017">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="factory">loader</property>
+      <property name="mlt_service">luma</property>
+      <property name="alpha_over">1</property>
+      <property name="fix_background_alpha">1</property>
+    </transition>
+    <transition id="transition1" out="00:00:00.017">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="start">-1</property>
+      <property name="accepts_blanks">1</property>
+      <property name="mlt_service">mix</property>
+    </transition>
+  </tractor>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">video2</property>
+    <blank length="00:00:11.028"/>
+    <entry producer="chain4" in="00:00:00.717" out="00:00:03.003"/>
+    <entry producer="producer4" in="00:00:07.558" out="00:00:09.777"/>
+    <entry producer="tractor0" in="00:00:00.000" out="00:00:00.017"/>
+    <entry producer="chain5" in="00:00:03.971" out="00:00:05.372"/>
+  </playlist>
+  <chain id="chain6" out="00:00:28.396">
+    <property name="length">00:00:28.413</property>
+    <property name="eof">pause</property>
+    <property name="resource">video3.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">2</property>
+    <property name="meta.media.0.stream.type">video</property>
+    <property name="meta.media.0.stream.frame_rate">59.9365</property>
+    <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.width">720</property>
+    <property name="meta.media.0.codec.height">1280</property>
+    <property name="meta.media.0.codec.rotate">0</property>
+    <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+    <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+    <property name="meta.media.0.codec.colorspace">709</property>
+    <property name="meta.media.0.codec.color_trc">1</property>
+    <property name="meta.media.0.codec.name">h264</property>
+    <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+    <property name="meta.media.0.codec.bit_rate">2947732</property>
+    <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.media.1.stream.type">audio</property>
+    <property name="meta.media.1.codec.sample_fmt">fltp</property>
+    <property name="meta.media.1.codec.sample_rate">44100</property>
+    <property name="meta.media.1.codec.channels">2</property>
+    <property name="meta.media.1.codec.layout">stereo</property>
+    <property name="meta.media.1.codec.name">aac</property>
+    <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+    <property name="meta.media.1.codec.bit_rate">62557</property>
+    <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+    <property name="meta.attr.major_brand.markup">mp42</property>
+    <property name="meta.attr.minor_version.markup">0</property>
+    <property name="meta.attr.compatible_brands.markup">mp42isom</property>
+    <property name="seekable">1</property>
+    <property name="meta.media.sample_aspect_num">1</property>
+    <property name="meta.media.sample_aspect_den">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="creation_time">2024-06-09T10:05:19</property>
+    <property name="vstream">0</property>
+    <property name="meta.media.frame_rate_num">510000</property>
+    <property name="meta.media.frame_rate_den">8509</property>
+    <property name="meta.media.colorspace">709</property>
+    <property name="meta.media.color_trc">1</property>
+    <property name="meta.media.has_b_frames">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">1280</property>
+    <property name="meta.media.aspect_ratio">1</property>
+    <property name="meta.media.color_range">mpeg</property>
+    <property name="astream">-1</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ee419815704b7ea827b327003bafb685</property>
+    <property name="meta.media.top_field_first">0</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">video3.mp4</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
+    <filter id="filter13" in="00:00:11.595" out="00:00:26.728">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">brightnessOpacity</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.101=1</property>
+      <property name="opacity">00:00:00.000=0;00:00:01.101=1</property>
+    </filter>
+    <filter id="filter14" in="00:00:11.595" out="00:00:26.728">
+      <property name="start">1</property>
+      <property name="level">00:00:14.148=1;00:00:15.132=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.001</property>
+    </filter>
+    <filter id="filter15" in="00:00:11.595" out="00:00:26.728">
+      <property name="version">0.4</property>
+      <property name="mlt_service">frei0r.levels</property>
+      <property name="threads">0</property>
+      <property name="0">0.3</property>
+      <property name="1">0.3</property>
+      <property name="2">1</property>
+      <property name="3">0.29</property>
+      <property name="4">0</property>
+      <property name="5">1</property>
+      <property name="6">0</property>
+      <property name="7">0.3</property>
+    </filter>
+  </chain>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">video3</property>
+    <blank length="00:00:15.900"/>
+    <entry producer="chain6" in="00:00:11.595" out="00:00:26.728"/>
+  </playlist>
+  <producer id="producer5" in="00:00:00.000" out="03:60:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="meta.shotcut.vui">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter16" out="00:00:11.896">
+      <property name="argument">COFFE</property>
+      <property name="geometry">0 0 720 138 1</property>
+      <property name="family">Microsoft Uighur</property>
+      <property name="size">133</property>
+      <property name="weight">400</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">2</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">100</property>
+      <property name="shotcut:animIn">0</property>
+      <property name="shotcut:animOut">0</property>
+    </filter>
+    <filter id="filter17" out="00:00:11.896">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fix_rotate_x">00:00:00.000=0;00:00:00.984=0</property>
+      <property name="transition.fill">0</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 1280 720 1280 1;00:00:00.984=0 0 720 1280 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:01.001</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter18" out="00:00:11.896">
+      <property name="mlt_service">avfilter.hue</property>
+      <property name="av.h">0</property>
+      <property name="av.b">00:00:06.540=10;00:00:11.846=-10</property>
+      <property name="av.s">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V5</property>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:11.896"/>
+  </playlist>
+  <producer id="producer6" in="00:00:00.000" out="03:60:00.000">
+    <property name="length">04:00:00.017</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="meta.shotcut.vui">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter19" out="00:00:30.432">
+      <property name="argument">¨Matea Maksić - Digitalni Multimedij 1¨</property>
+      <property name="geometry">70 1225 720 320 1</property>
+      <property name="family">Microsoft JhengHei UI Light</property>
+      <property name="size">32</property>
+      <property name="weight">290</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="opacity">1</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">24</property>
+    </filter>
+  </producer>
+  <playlist id="playlist6">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V6</property>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:30.432"/>
+  </playlist>
+  <tractor id="tractor1" title="Shotcut version 24.04.28" in="00:00:00.000" out="00:00:31.032">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2" hide="video"/>
+    <track producer="playlist3"/>
+    <track producer="playlist4"/>
+    <track producer="playlist5"/>
+    <track producer="playlist6"/>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">1</property>
+      <property name="b_track">4</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition12">
+      <property name="a_track">1</property>
+      <property name="b_track">6</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition13">
+      <property name="a_track">0</property>
+      <property name="b_track">7</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition14">
+      <property name="a_track">1</property>
+      <property name="b_track">7</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
